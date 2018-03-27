@@ -19,3 +19,9 @@ con todas las funciones explicadas, comentadas y con esquemas de tipo state char
 Por ultimo haremos un análisis de ejecutabilidad de todas las tareas que realice
 nuestro robot. Se añadirá también un manual de usuario que muestre el uso de todas
 las aplicaciones con las que cuenta el robot diseñado.
+
+<br>
+
+![Alt Text](foto1.jpg)
+
+![Alt Text](https://github.com/antonio490/SEDA/blob/master/foto1.jpg)
