@@ -26,6 +26,6 @@ las aplicaciones con las que cuenta el robot diseñado.
 
 ![Alt Text](foto2.jpg)
 
-![Alt Text](schematic.jpg)
+![Alt Text](schematic.JPG)
 
-![Alt Text](schematic2.jpg)
+![Alt Text](schematic2.JPG)
