@@ -1,8 +1,6 @@
 
 ## Sistemas electrónicos digitales avanzados
 
-<br>
-
 #### Diseño de un robot espía con tracción diferencial
 
 <br>
