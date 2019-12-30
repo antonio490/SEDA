@@ -1,11 +1,11 @@
 
-## Sistemas electrónicos digitales avanzados
+## Advanced digital electronic systems
 
-#### Diseño de un robot espía con tracción diferencial
+#### Development of a spy robot with diferential traction 
 
 <br>
 
-> Autores: Javier López y Antonio Sanz
+> Authors: Javier López y Antonio Sanz
 
 <br>
 
